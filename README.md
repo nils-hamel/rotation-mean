@@ -52,7 +52,7 @@ giving one possible average rotation of the rotation matrix set.
 **rotation-mean** - Nils Hamel <br >
 Copyright (c) 2020 DHLAB, EPFL
 
-This program is licensed under the terms of the GNU GPLv3.
+This program is licensed under the terms of the GNU GPLv3. Documentation and illustrations are licensed under the terms of the CC BY 4.0.
 
 ## Dependencies
 

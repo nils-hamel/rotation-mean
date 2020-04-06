@@ -56,7 +56,7 @@ This program is licensed under the terms of the GNU GPLv3. Documentation and ill
 
 ## Dependencies
 
-The _rotation-mean_ comes with the following package dependencies ([Instructions](DEPEND.md) :
+The _rotation-mean_ comes with the following package dependencies ([Instructions](DEPEND.md)) :
 
 * octave
 * octave-linear-algebra

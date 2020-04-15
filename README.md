@@ -6,7 +6,7 @@ This solution is defined in the context of _structure from motion_ models mergin
 
 Note : this code is designed for _octave_ and could need adaptations to run on _MATLAB_.
 
-## Usage
+## rotation-mean
 
 The following code shows an example of usage of the _octave_ code on a small set of similar rotation matrix :
 
